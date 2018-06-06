@@ -5,3 +5,4 @@ creating a new branch is quick.
 creating a new branch is quich for merge about master and feature1 branch.
 modify this file for dev branch.
 modify this file for stash.
+modify this file for dev in the main branch.
